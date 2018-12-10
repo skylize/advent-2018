@@ -1,0 +1,12 @@
+{
+  "name": "advent-2018",
+  "version": "1.0.0",
+  "description": "JS Solutions to Advent of Code 2018",
+  "main": "index.js",
+  "keywords": [],
+  "author": "skylize (John 'Sky' Higgins)",
+  "license": "ISC",
+  "dependencies": {
+    "ramda": "^0.26.1"
+  }
+}
